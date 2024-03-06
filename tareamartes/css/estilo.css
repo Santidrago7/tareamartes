@@ -1,0 +1,118 @@
+#oso {
+    width: 200px;
+    height: 200px;
+    background-color: maroon;
+    border-radius: 100px; 
+    position: relative;
+    margin: 50px auto;
+  }
+  
+  #cabeza {
+    width: 150px;
+    height: 150px;
+    background-color:maroon;
+    border-radius: 75px; 
+    position: absolute;
+    top: -75px;
+    left: 25px;
+  }
+  
+  #orejaIzquierda {
+    width: 50px;
+    height: 80px;
+    background-color: maroon;
+    border-radius: 100px; 
+    position: absolute;
+    top: -20px;
+    left: -20px;
+  }
+  
+  #orejaDerecha {
+    width: 50px;
+    height: 80px;
+    background-color: maroon;
+    border-radius: 100px; 
+    position: absolute;
+    top: -20px;
+    right: -20px;
+  }
+  
+  #cara {
+    width: 120px;
+    height: 120px;
+    background-color: honeydew;
+    border-radius: 100px; 
+    position: absolute;
+    top: 15px;
+    left: 15px;
+  }
+  
+  #ojoIzquierdo {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 100px; 
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+  
+  #ojoDerecho {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 100px; 
+    position: absolute;
+    top: 30px;
+    right: 30px;
+  }
+  
+
+  #nariz {
+    width: 20px;
+    height: 20px;
+    background-color: #5d432c;
+    border-radius: 100px; 
+    position: absolute;
+    top: 60px;
+    left: 50px;
+  }
+  #boca {
+    width: 60px;
+    height: 20px;
+    background-color: #5d432c;
+    border-radius: 100px; 
+    position: absolute;
+    top: 80px;
+    left: 30px;
+  }
+  #ojoIzquierdo{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+  #ojoDerecho {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+  
+  
+  #barriga {
+    width: 100px;
+    height: 100px;
+    background-color: #f7d9aa;
+    border-radius: 100px; 
+    position: absolute;
+    top: 100px;
+    left: 50px;
+  }
+  
